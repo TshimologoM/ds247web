@@ -9,8 +9,9 @@
 
 <div style="text-align: justify">In this project I use a government expenditure time-series dataset retrieved from the World Bank open data repository to forecast future government expenditure outcomes for individual economies. I compare model outcomes of 7 machine learning techniques such as Support vector regression (SVR), Convolution neural network (CNN), and Gated recurrent unit (GRU). </div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<left><img src="images/gru-framework.png"/></left>
+<center><img src="images/Forecasting-trendlines-gvt.png"/></center>
 <br>
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Tshimologo Molefyane Powered by Jekyll and the Minimal Theme.</center>
