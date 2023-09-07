@@ -11,6 +11,14 @@
 <br>
 <center><img src="images/gru-framework.png"/></center>
 <br>
+---
 
+### Publications
+
+- [The Forecasting of a Leading
+Country’s Government Expenditure Using a Recurrent Neural Network with a
+Gated Recurrent Unit](https://www.mdpi.com/2227-7390/11/14/3085)
+
+<br>
 ---
 <center>© 2023 Tshimologo Molefyane Powered by Jekyll and the Minimal Theme.</center>
