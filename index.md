@@ -9,7 +9,7 @@
 
 <div style="text-align: justify">In this project I use a government expenditure time-series dataset retrieved from the World Bank open data repository to forecast future government expenditure outcomes for individual economies. I compare model outcomes of 7 machine learning techniques such as Support vector regression (SVR), Convolution neural network (CNN), and Gated recurrent unit (GRU). </div>
 <br>
-<center><img src="images/gru-framework.png"/></center>
+<center><img src="images/deepL.png"/></center>
 <br>
 ---
 
@@ -18,7 +18,8 @@
 - [The Forecasting of a Leading
 Country’s Government Expenditure Using a Recurrent Neural Network with a
 Gated Recurrent Unit](https://www.mdpi.com/2227-7390/11/14/3085)
-
+<br>
+<center><img src="images/publctn.png"/></center>
 <br>
 ---
 <center>© 2023 Tshimologo Molefyane Powered by Jekyll and the Minimal Theme.</center>
