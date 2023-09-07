@@ -15,8 +15,7 @@
 
 ### Publications
 
-- [The Forecasting of a Leading
-Country’s Government Expenditure Using a Recurrent Neural Network with a
+- [Forecasting Using a Recurrent Neural Network with a
 Gated Recurrent Unit](https://www.mdpi.com/2227-7390/11/14/3085)
 <br>
 <center><img src="images/publctn.png"/></center>
